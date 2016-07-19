@@ -14,6 +14,8 @@ public class PlayerControlScript : MonoBehaviour
 
 	void Update () 
 	{
+
+		//Movement Handling
 		if (Input.GetKey ("w")) 
 		{
 			PlayerRigidbody.velocity = Vector2.up * Speed;
@@ -22,6 +24,9 @@ public class PlayerControlScript : MonoBehaviour
 			AnimControlleScript.IsFacingLeft = false;
 			AnimControlleScript.IsFacingRight = false;
 			AnimControlleScript.IsPlayerAttackingUp = false;
+			AnimControlleScript.IsPlayerAttackingDown = false;
+			AnimControlleScript.IsPlayerAttackingLeft = false;
+			AnimControlleScript.IsPlayerAttackingRight = false;
 		}
 
 		if (Input.GetKey ("s")) 
@@ -32,6 +37,9 @@ public class PlayerControlScript : MonoBehaviour
 			AnimControlleScript.IsFacingLeft = false;
 		    AnimControlleScript.IsFacingRight = false;
 			AnimControlleScript.IsPlayerAttackingUp = false;
+			AnimControlleScript.IsPlayerAttackingDown = false;
+			AnimControlleScript.IsPlayerAttackingLeft = false;
+			AnimControlleScript.IsPlayerAttackingRight = false;
 		}
 
 		if (Input.GetKey ("a")) 
@@ -42,6 +50,9 @@ public class PlayerControlScript : MonoBehaviour
 			AnimControlleScript.IsFacingForward = false;
 			AnimControlleScript.IsFacingRight = false;
 			AnimControlleScript.IsPlayerAttackingUp = false;
+			AnimControlleScript.IsPlayerAttackingDown = false;
+			AnimControlleScript.IsPlayerAttackingLeft = false;
+			AnimControlleScript.IsPlayerAttackingRight = false;
 		}
 
 		if (Input.GetKey ("d"))
@@ -52,6 +63,9 @@ public class PlayerControlScript : MonoBehaviour
 			AnimControlleScript.IsFacingForward = false;
 			AnimControlleScript.IsFacingLeft = false;
 			AnimControlleScript.IsPlayerAttackingUp = false;
+			AnimControlleScript.IsPlayerAttackingDown = false;
+			AnimControlleScript.IsPlayerAttackingLeft = false;
+			AnimControlleScript.IsPlayerAttackingRight = false;
 		}
 
 		if(Input.anyKey != true)
@@ -62,7 +76,12 @@ public class PlayerControlScript : MonoBehaviour
 			AnimControlleScript.IsFacingForward = false;
 			AnimControlleScript.IsFacingLeft = false;
 			AnimControlleScript.IsPlayerAttackingUp = false;
+			AnimControlleScript.IsPlayerAttackingDown = false;
+			AnimControlleScript.IsPlayerAttackingLeft = false;
+			AnimControlleScript.IsPlayerAttackingRight = false;
 		}
+
+		//Attack Handling
 
 		if (Input.GetKey (KeyCode.UpArrow))
 		{
@@ -72,6 +91,48 @@ public class PlayerControlScript : MonoBehaviour
 			AnimControlleScript.IsFacingForward = false;
 			AnimControlleScript.IsFacingLeft = false;
 			AnimControlleScript.IsPlayerAttackingUp = true;
+			AnimControlleScript.IsPlayerAttackingDown = false;
+			AnimControlleScript.IsPlayerAttackingLeft = false;
+			AnimControlleScript.IsPlayerAttackingRight = false;
+		}
+
+		if (Input.GetKey (KeyCode.DownArrow)) 
+		{
+			AnimControlleScript.IsPlayerIdle = false;
+			AnimControlleScript.IsFacingRight = false;
+			AnimControlleScript.IsFacingBackward = false;
+			AnimControlleScript.IsFacingForward = false;
+			AnimControlleScript.IsFacingLeft = false;
+			AnimControlleScript.IsPlayerAttackingUp = false;
+			AnimControlleScript.IsPlayerAttackingDown = true;
+			AnimControlleScript.IsPlayerAttackingLeft = false;
+			AnimControlleScript.IsPlayerAttackingRight = false;
+		}
+
+		if (Input.GetKey (KeyCode.LeftArrow)) 
+		{
+			AnimControlleScript.IsPlayerIdle = false;
+			AnimControlleScript.IsFacingRight = false;
+			AnimControlleScript.IsFacingBackward = false;
+			AnimControlleScript.IsFacingForward = false;
+			AnimControlleScript.IsFacingLeft = false;
+			AnimControlleScript.IsPlayerAttackingUp = false;
+			AnimControlleScript.IsPlayerAttackingDown = false;
+			AnimControlleScript.IsPlayerAttackingLeft = true;
+			AnimControlleScript.IsPlayerAttackingRight = false;
+		}
+
+		if (Input.GetKey (KeyCode.RightArrow)) 
+		{
+			AnimControlleScript.IsPlayerIdle = false;
+			AnimControlleScript.IsFacingRight = false;
+			AnimControlleScript.IsFacingBackward = false;
+			AnimControlleScript.IsFacingForward = false;
+			AnimControlleScript.IsFacingLeft = false;
+			AnimControlleScript.IsPlayerAttackingUp = false;
+			AnimControlleScript.IsPlayerAttackingDown = false;
+			AnimControlleScript.IsPlayerAttackingLeft = false;
+			AnimControlleScript.IsPlayerAttackingRight = true;
 		}
 	}
 }
