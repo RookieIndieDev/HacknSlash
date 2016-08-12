@@ -6,7 +6,7 @@ public class PlayerControlScript : MonoBehaviour
 
 	Rigidbody2D PlayerRigidbody;
 	float Speed = 3.5f;
-	float xOffset = 3.3f;
+	float xOffset = 3.2f;
 	float yOffset = 0.49f;
 	Vector3 ScreenSpaceVector;
 	public static Vector4 PlayerPosition;
