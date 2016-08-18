@@ -12,6 +12,7 @@ GameObject:
   - 95: {fileID: 9504166}
   - 61: {fileID: 6177934}
   - 50: {fileID: 5013868}
+  - 114: {fileID: 11495580}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -44,7 +45,7 @@ Rigidbody2D:
   m_AngularDrag: 0.05
   m_GravityScale: 0
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
@@ -79,6 +80,17 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11495580
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 117370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d73cc99377c58ac4f9735f94d2e82af5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &21291360
 SpriteRenderer:
   m_ObjectHideFlags: 1
