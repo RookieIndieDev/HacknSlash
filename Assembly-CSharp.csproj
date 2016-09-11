@@ -47,8 +47,10 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\AnimControllerScript.cs" />
      <Compile Include="Assets\Scripts\CameraScript.cs" />
+     <Compile Include="Assets\Scripts\EnemyScript.cs" />
      <Compile Include="Assets\Scripts\PlayerControlScript.cs" />
      <Compile Include="Assets\Scripts\UIHandlerScript.cs" />
+     <None Include="Assets\Shaders\ImageEffectShader.shader" />
      <None Include="Assets\Shaders\NightShader.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

@@ -9,12 +9,15 @@ public class PlayerControlScript : MonoBehaviour
 	float xOffset = 2.0f;
 	float yOffset = 0.49f;
 	Vector3 ScreenSpaceVector;
+	Vector2 PlayerPos2D;
 	public static Vector4 PlayerPosition;
 	public static bool IsDead;
+	Transform PlayerTransform;
 	void Start () 
 	{
 		PlayerRigidbody = gameObject.GetComponent<Rigidbody2D> ();
 		IsDead = false;
+		PlayerTransform = gameObject.transform;
 	}
 	
 
@@ -101,6 +104,7 @@ public class PlayerControlScript : MonoBehaviour
 				AnimControllerScript.IsPlayerAttackingDown = false;
 				AnimControllerScript.IsPlayerAttackingLeft = false;
 				AnimControllerScript.IsPlayerAttackingRight = false;
+				Physics2D.Raycast(PlayerPos2D, Vector2.up, 2f);
 			}
 
 			if (Input.GetKey (KeyCode.DownArrow)) 
@@ -114,6 +118,7 @@ public class PlayerControlScript : MonoBehaviour
 				AnimControllerScript.IsPlayerAttackingDown = true;
 				AnimControllerScript.IsPlayerAttackingLeft = false;
 				AnimControllerScript.IsPlayerAttackingRight = false;
+				Physics2D.Raycast(PlayerPos2D, Vector2.down, 2f);
 			}
 
 			if (Input.GetKey (KeyCode.LeftArrow)) 
@@ -127,6 +132,7 @@ public class PlayerControlScript : MonoBehaviour
 				AnimControllerScript.IsPlayerAttackingDown = false;
 				AnimControllerScript.IsPlayerAttackingLeft = true;
 				AnimControllerScript.IsPlayerAttackingRight = false;
+				Physics2D.Raycast(PlayerPos2D, Vector2.left, 2f);
 			}
 
 			if (Input.GetKey (KeyCode.RightArrow)) 
@@ -140,6 +146,7 @@ public class PlayerControlScript : MonoBehaviour
 				AnimControllerScript.IsPlayerAttackingDown = false;
 				AnimControllerScript.IsPlayerAttackingLeft = false;
 				AnimControllerScript.IsPlayerAttackingRight = true;
+				Physics2D.Raycast(PlayerPos2D, Vector2.right, 2f);
 			}
 
 			if(Input.GetKey(KeyCode.Delete))
@@ -149,11 +156,12 @@ public class PlayerControlScript : MonoBehaviour
 			}
 
 			//Convert World Space to Screen Space
-			ScreenSpaceVector.Set (gameObject.transform.position.x + xOffset + Random.Range (0f, 0.1f), gameObject.transform.position.y + yOffset + Random.Range (0f, 0.1f), gameObject.transform.position.z);
+			ScreenSpaceVector.Set (PlayerTransform.position.x + xOffset + Random.Range (0f, 0.1f), PlayerTransform.position.y + yOffset + Random.Range (0f, 0.1f), PlayerTransform.position.z);
 			ScreenSpaceVector = Camera.main.WorldToScreenPoint (ScreenSpaceVector);
 
 			// Set the Position to be sent to the Shader
 			PlayerPosition.Set (ScreenSpaceVector.x, ScreenSpaceVector.y, ScreenSpaceVector.z, 0);
+			PlayerPos2D.Set(PlayerTransform.position.x, PlayerTransform.position.y);
 		}
 	}
 }

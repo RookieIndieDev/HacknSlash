@@ -1,0 +1,1998 @@
+fileFormatVersion: 2
+guid: dba8177da1d117442971410329155401
+timeCreated: 1471506804
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dungeon_0
+    21300002: Dungeon_1
+    21300004: Dungeon_2
+    21300006: Dungeon_3
+    21300008: Dungeon_4
+    21300010: Dungeon_5
+    21300012: Dungeon_6
+    21300014: Dungeon_7
+    21300016: Dungeon_8
+    21300018: Dungeon_9
+    21300020: Dungeon_10
+    21300022: Dungeon_11
+    21300024: Dungeon_12
+    21300026: Dungeon_13
+    21300028: Dungeon_14
+    21300030: Dungeon_15
+    21300032: Dungeon_16
+    21300034: Dungeon_17
+    21300036: Dungeon_18
+    21300038: Dungeon_19
+    21300040: Dungeon_20
+    21300042: Dungeon_21
+    21300044: Dungeon_22
+    21300046: Dungeon_23
+    21300048: Dungeon_24
+    21300050: Dungeon_25
+    21300052: Dungeon_26
+    21300054: Dungeon_27
+    21300056: Dungeon_28
+    21300058: Dungeon_29
+    21300060: Dungeon_30
+    21300062: Dungeon_31
+    21300064: Dungeon_32
+    21300066: Dungeon_33
+    21300068: Dungeon_34
+    21300070: Dungeon_35
+    21300072: Dungeon_36
+    21300074: Dungeon_37
+    21300076: Dungeon_38
+    21300078: Dungeon_39
+    21300080: Dungeon_40
+    21300082: Dungeon_41
+    21300084: Dungeon_42
+    21300086: Dungeon_43
+    21300088: Dungeon_44
+    21300090: Dungeon_45
+    21300092: Dungeon_46
+    21300094: Dungeon_47
+    21300096: Dungeon_48
+    21300098: Dungeon_49
+    21300100: Dungeon_50
+    21300102: Dungeon_51
+    21300104: Dungeon_52
+    21300106: Dungeon_53
+    21300108: Dungeon_54
+    21300110: Dungeon_55
+    21300112: Dungeon_56
+    21300114: Dungeon_57
+    21300116: Dungeon_58
+    21300118: Dungeon_59
+    21300120: Dungeon_60
+    21300122: Dungeon_61
+    21300124: Dungeon_62
+    21300126: Dungeon_63
+    21300128: Dungeon_64
+    21300130: Dungeon_65
+    21300132: Dungeon_66
+    21300134: Dungeon_67
+    21300136: Dungeon_68
+    21300138: Dungeon_69
+    21300140: Dungeon_70
+    21300142: Dungeon_71
+    21300144: Dungeon_72
+    21300146: Dungeon_73
+    21300148: Dungeon_74
+    21300150: Dungeon_75
+    21300152: Dungeon_76
+    21300154: Dungeon_77
+    21300156: Dungeon_78
+    21300158: Dungeon_79
+    21300160: Dungeon_80
+    21300162: Dungeon_81
+    21300164: Dungeon_82
+    21300166: Dungeon_83
+    21300168: Dungeon_84
+    21300170: Dungeon_85
+    21300172: Dungeon_86
+    21300174: Dungeon_87
+    21300176: Dungeon_88
+    21300178: Dungeon_89
+    21300180: Dungeon_90
+    21300182: Dungeon_91
+    21300184: Dungeon_92
+    21300186: Dungeon_93
+    21300188: Dungeon_94
+    21300190: Dungeon_95
+    21300192: Dungeon_96
+    21300194: Dungeon_97
+    21300196: Dungeon_98
+    21300198: Dungeon_99
+    21300200: Dungeon_100
+    21300202: Dungeon_101
+    21300204: Dungeon_102
+    21300206: Dungeon_103
+    21300208: Dungeon_104
+    21300210: Dungeon_105
+    21300212: Dungeon_106
+    21300214: Dungeon_107
+    21300216: Dungeon_108
+    21300218: Dungeon_109
+    21300220: Dungeon_110
+    21300222: Dungeon_111
+    21300224: Dungeon_112
+    21300226: Dungeon_113
+    21300228: Dungeon_114
+    21300230: Dungeon_115
+    21300232: Dungeon_116
+    21300234: Dungeon_117
+    21300236: Dungeon_118
+    21300238: Dungeon_119
+    21300240: Dungeon_120
+    21300242: Dungeon_121
+    21300244: Dungeon_122
+    21300246: Dungeon_123
+    21300248: Dungeon_124
+    21300250: Dungeon_125
+    21300252: Dungeon_126
+    21300254: Dungeon_127
+    21300256: Dungeon_128
+    21300258: Dungeon_129
+    21300260: Dungeon_130
+    21300262: Dungeon_131
+    21300264: Dungeon_132
+    21300266: Dungeon_133
+    21300268: Dungeon_134
+    21300270: Dungeon_135
+    21300272: Dungeon_136
+    21300274: Dungeon_137
+    21300276: Dungeon_138
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dungeon_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 664
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_5
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 526
+        width: 391
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -195.5, y: 75}
+        - {x: -195.5, y: -75}
+        - {x: 195.5, y: -75}
+        - {x: 195.5, y: 75}
+    - name: Dungeon_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 582
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 582
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 2}
+        - {x: 2, y: 32}
+    - name: Dungeon_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 582
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: Dungeon_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 620
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_11
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 621
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 621
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 621
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 624
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_15
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 528
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 64.5}
+        - {x: -64.5, y: -64.5}
+        - {x: 64.5, y: -64.5}
+        - {x: 64.5, y: 64.5}
+    - name: Dungeon_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 582
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 582
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 582
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_21
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_22
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 582
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_24
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_25
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 584
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_27
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 508
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 556
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 558
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 558
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 561
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 552
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 447
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 61.5}
+        - {x: -46.5, y: -61.5}
+        - {x: 46.5, y: -61.5}
+        - {x: 46.5, y: 61.5}
+    - name: Dungeon_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 558
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_36
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 558
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_37
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 551
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 542
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 545
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 546
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_41
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 534
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_42
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 534
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_43
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 503
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_44
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 470
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_45
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 377
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64.5}
+        - {x: -64, y: -64.5}
+        - {x: 64, y: -64.5}
+        - {x: 64, y: 64.5}
+    - name: Dungeon_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_50
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_53
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 449
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_54
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 449
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 449
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_56
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 449
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_57
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 449
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_58
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 443
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 26.5}
+        - {x: -47, y: -26.5}
+        - {x: 47, y: -26.5}
+        - {x: 47, y: 26.5}
+    - name: Dungeon_59
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 442
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 26.5}
+        - {x: -47, y: -26.5}
+        - {x: 47, y: -26.5}
+        - {x: 47, y: 26.5}
+    - name: Dungeon_60
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 442
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 26.5}
+        - {x: -47, y: -26.5}
+        - {x: 47, y: -26.5}
+        - {x: 47, y: 26.5}
+    - name: Dungeon_61
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 442
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 397
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_63
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 408
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_64
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 416
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_65
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_66
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 327
+        width: 162
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 48.5}
+        - {x: -81, y: -48.5}
+        - {x: 81, y: -48.5}
+        - {x: 81, y: 48.5}
+    - name: Dungeon_67
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 365
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 26.5}
+        - {x: -48, y: -26.5}
+        - {x: 48, y: -26.5}
+        - {x: 48, y: 26.5}
+    - name: Dungeon_68
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 367
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: 24, y: -16}
+        - {x: 24, y: 16}
+    - name: Dungeon_69
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: Dungeon_70
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 385
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_71
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 385
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_72
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 389
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_73
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 388
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_74
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 378
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_75
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 378
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_76
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 361
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 363
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_78
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 364
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_79
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 364
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_80
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 363
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 363
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_82
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 365
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_83
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_84
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 368
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_86
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 372
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_87
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 359
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_88
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 326
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_89
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 329
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_90
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 329
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_91
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_93
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 262
+        width: 421
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.5, y: 41}
+        - {x: -210.5, y: -41}
+        - {x: 210.5, y: -41}
+        - {x: 210.5, y: 41}
+    - name: Dungeon_94
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 318
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_95
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 280
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 293
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 303
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_98
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 294
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_99
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 285
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_100
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 285
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_101
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 270
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: Dungeon_102
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 290
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_103
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 277
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_104
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 17
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_105
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Dungeon_106
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_107
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 239
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_108
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 211
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 33}
+        - {x: -18, y: -33}
+        - {x: 18, y: -33}
+        - {x: 18, y: 33}
+    - name: Dungeon_109
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 227
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_110
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 226
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_111
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 226
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_112
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 226
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_113
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 200
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 20.5}
+        - {x: -21.5, y: -20.5}
+        - {x: 21.5, y: -20.5}
+        - {x: 21.5, y: 20.5}
+    - name: Dungeon_114
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 200
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 20.5}
+        - {x: -21.5, y: -20.5}
+        - {x: 21.5, y: -20.5}
+        - {x: 21.5, y: 20.5}
+    - name: Dungeon_115
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 171
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: Dungeon_116
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 173
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 31}
+        - {x: -31, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: 31}
+    - name: Dungeon_117
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 173
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_118
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 173
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_119
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 175
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_120
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 175
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_121
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 175
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_122
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 175
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_123
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 179
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -16.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 16}
+    - name: Dungeon_124
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 209
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_125
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_126
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_127
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 167
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 46
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_130
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 46
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_131
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 45
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 46
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_133
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 46
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_134
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 46
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_135
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 46
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_136
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 45
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: Dungeon_137
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 51
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 30}
+        - {x: -28, y: -30}
+        - {x: 28, y: -30}
+        - {x: 28, y: 30}
+    - name: Dungeon_138
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 49
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 30}
+        - {x: -28, y: -30}
+        - {x: 28, y: -30}
+        - {x: 28, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
